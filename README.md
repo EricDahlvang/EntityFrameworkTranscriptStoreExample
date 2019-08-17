@@ -1,0 +1,2 @@
+# EntityFrameworkTranscriptStoreExample
+Entity Framework Transcript Store Example
