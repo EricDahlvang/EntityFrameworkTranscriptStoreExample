@@ -29,7 +29,6 @@ public AdapterWithErrorHandler(ITranscriptStore transcriptLogger, IConfiguration
 
 ```
 
- Use(new TranscriptLoggerMiddleware(transcriptLogger));
 ## Prerequisites
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) version 2.1
